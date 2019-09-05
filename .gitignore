@@ -3,5 +3,6 @@
 /.vs
 /Build
 /Plugins
+/Content/Environment_Set
 *.sln
 *_BuiltData.uasset
